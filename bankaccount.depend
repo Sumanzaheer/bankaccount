@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1522858765 source:c:\users\okok computers\desktop\bankaccount\main.cpp
+	<iostream>
+	<string.h>
+	"header.h"
+
+1522858845 c:\users\okok computers\desktop\bankaccount\header.h
+	<iostream>
+	<string.h>
+
